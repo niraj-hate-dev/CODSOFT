@@ -18,10 +18,10 @@ This is my Task 1 submission for the CodSoft Web Development Internship.
 - Modern User Interface
 
 ### Live Demo
-https://niraj-hate-dev.github.io/CODSOFT/
+https://niraj-hate-dev.github.io/codsoft_tasks/
 
 ### GitHub Repository
-https://github.com/niraj-hate-dev/CODSOFT
+https://github.com/niraj-hate-dev/codsoft_tasks
 
 ### Author
 Niraj Hate
